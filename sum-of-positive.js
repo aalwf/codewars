@@ -1,5 +1,5 @@
 // Bool To Word
-// Day 5
+// Day 6
 // https://www.codewars.com/kata/53369039d7ab3ac506000467
 
 const positiveSum = (...arr) =>
